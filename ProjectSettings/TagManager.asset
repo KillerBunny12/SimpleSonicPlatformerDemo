@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - collisiondetection
+  - Enemy
+  - LevelObstacles
+  - SpikeBox
+  - Goal
+  - Spring
+  - Platform
+  - DeathZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Coin
+  - Player
+  - level
+  - Levelobstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - CollisionDetectors
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2358020077
+    locked: 0
+  - name: Tileset
+    uniqueID: 582724637
+    locked: 0
+  - name: Entity
+    uniqueID: 3288918913
+    locked: 0
+  - name: Item
+    uniqueID: 341880043
+    locked: 0
+  - name: Foreground
+    uniqueID: 590615833
+    locked: 0
+  - name: UI
+    uniqueID: 3027097187
+    locked: 0

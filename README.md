@@ -9,6 +9,7 @@
  ### Prerequisites
  
 To execute the game you will need the Unity engine.
+Or download the game on the [releases](https://github.com/KillerBunny12/SimpleSonicPlatformerDemo/releases) page
 
  ## Built With
  
